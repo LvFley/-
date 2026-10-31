@@ -1,0 +1,29 @@
+{
+  "count": 6,
+  "faces": [
+    {
+      "index": 1,
+      "file": "face1.png"
+    },
+    {
+      "index": 2,
+      "file": "face2.png"
+    },
+    {
+      "index": 3,
+      "file": "face3.png"
+    },
+    {
+      "index": 4,
+      "file": "face4.png"
+    },
+    {
+      "index": 5,
+      "file": "face5.png"
+    },
+    {
+      "index": 6,
+      "file": "face6.png"
+    }
+  ]
+}
